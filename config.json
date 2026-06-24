@@ -1,0 +1,10 @@
+{
+    "DESIGN_NAME": "four_bit_add",
+    "VERILOG_FILES": "dir::design.sv",
+    "CLOCK_PERIOD": 0,
+    "CLOCK_PORT": null,
+    "DIE_AREA": "0 0 40 40",
+    "CORE_UTIL": 50,
+    "PL_TARGET_DENSITY": 0.55,
+    "FP_SIZING": "absolute"
+}
